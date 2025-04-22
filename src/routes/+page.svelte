@@ -12,7 +12,7 @@
 
 <div class="bg-neutral-900 h-screen w-screen relative">
     <div class="flex flex-col justify-center items-center h-full w-full text-center">
-        <div id="logo" class="h-64 sm:h-96 md:h-128 mb-8">
+        <div id="logo" class="h-128 mb-8">
             <img 
                 src="/images/logo.svg" 
                 alt="Obsidica logo" 
@@ -29,7 +29,7 @@
         <p>
             <a 
                 href="https://www.linkedin.com/in/luis-sprung-544480347/"
-                class="underline underline-offset-3 hover:decoration-2 decoration-neutral-500 text-neutral-600"
+                class="underline underline-offset-3 hover:decoration-2 decoration-neutral-500"
                 target="_blank"
             >
             Made By: Luis Sprung
