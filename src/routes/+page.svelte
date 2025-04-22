@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </svelte:head>
 
-<div class="bg-neutral-900 h-screen w-screen relative">
+<div class="bg-neutral-900 h-dvh w-dvw relative">
     <div class="flex flex-col justify-center items-center h-full w-full text-center">
         <div id="logo" class="h-96 md:h-128 mb-8">
             <img 
