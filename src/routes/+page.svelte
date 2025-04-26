@@ -11,9 +11,10 @@
 </svelte:head>
 
 <div class="bg-neutral-900 h-dvh w-dvw relative">
-    <div class="flex flex-col justify-center items-center h-full w-full text-center">
+    <div class="flex flex-col justify-center items-center h-full w-full text-center select-none">
         <div id="logo" class="h-96 md:h-128 mb-8">
             <img 
+                draggable="false"
                 src="/images/logo.svg" 
                 alt="Obsidica logo" 
                 class="w-full h-full duration-300 hover:scale-102 ease-out"
